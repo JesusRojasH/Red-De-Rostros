@@ -118,7 +118,7 @@ loss = Model.history.history['loss']
 val_loss = Model.history.history['val_loss']
 
 plt.plot(loss, label ='Datos de Entrenamiento')
-plt.plot(Model.history.history['val_loss'], label ='Datos de Validación')
+plt.plot(val_loss, label ='Datos de Validación')
 plt.title('Precisión de la Red')
 plt.ylabel('Loss')
 plt.xlabel('Épocas')
