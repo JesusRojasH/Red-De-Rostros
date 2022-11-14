@@ -1,5 +1,5 @@
 # Red De Rostros
-## Luis de Jesús Rojas Hwernández
+## Luis de Jesús Rojas Hernández
 
 ## Introducción. 
 Este trabajo tiene como propósito presentar el desarrollo de una red neuronal artificial enfocada a detectar rostros, específicamente para la detección personal. La red se basará en el lenguaje de programación Python con ayuda principal de las librerías de Keras y Tensorflow, así mismo se hará uso de otras librerías con funciones complementarias. 
